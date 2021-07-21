@@ -1,0 +1,1 @@
+This was an assessment in which I practiced conditional statements, for of loops, and pushing into arrays. 
